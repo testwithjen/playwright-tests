@@ -1,0 +1,26 @@
+{
+  "name": "playwright-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testwithjen/playwright-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/testwithjen/playwright-tests/issues"
+  },
+  "homepage": "https://github.com/testwithjen/playwright-tests#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1"
+  }
+}
